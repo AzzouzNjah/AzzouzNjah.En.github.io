@@ -144,7 +144,7 @@ defaults:
 
 # Build settings
 
-theme: devlopr
+theme: Fresh
 plugins:
   - jekyll-feed
   - jekyll-paginate
